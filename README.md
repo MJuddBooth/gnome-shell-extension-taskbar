@@ -1,6 +1,10 @@
 ![TaskBar Icon](https://extensions.gnome.org/extension-data/icons/icon_584_ZS33QUn.png)          
-**GNOME Shell Extension TaskBar**    
-Copyright (C) 2013-2018 zpydr             
+**GNOME Shell Extension TaskBar**
+Copyright (C) 2013-2018 zpydr
+
+This is no longer being maintained by zpydr. This is based on lotan's fork
+with zpydr's last few non-delete commits applied (which means potentially a blend of lotan's and jimmytheneutrino).  But it works for me under gnome-shell 3.30.
+
                 
 This program is free software: you can redistribute it and/or modify            
 it under the terms of the GNU General Public License as published by            
@@ -15,7 +19,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License               
 along with this program. If not, see https://www.gnu.org/licenses/.              
                 
-zpydr@protonmail.com            
+
                 
 ![GPL Image](https://www.gnu.org/graphics/gplv3-127x51.png)             
         
